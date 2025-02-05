@@ -1,1 +1,3 @@
-My First readmeeeeeeeeeeeeeee
+My First readmeeeeeeeeeeeeeee  =================  ) => (for each v in vet){
+let gol = for.map
+}
